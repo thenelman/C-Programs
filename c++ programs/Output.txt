@@ -1,0 +1,2 @@
+The Sum of the first 3 numbers 
+in input.txt is 8
